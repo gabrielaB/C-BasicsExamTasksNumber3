@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\bin\Debug\16.WineGlass.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\bin\Debug\16.WineGlass.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\bin\Debug\16.WineGlass.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\obj\Debug\16.WineGlass.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\obj\Debug\16.WineGlass.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\16.WineGlass\obj\Debug\16.WineGlass.pdb

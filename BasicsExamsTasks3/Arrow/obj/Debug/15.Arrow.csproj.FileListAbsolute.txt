@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\bin\Debug\15.Arrow.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\bin\Debug\15.Arrow.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\bin\Debug\15.Arrow.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\obj\Debug\15.Arrow.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\obj\Debug\15.Arrow.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\15.Arrow\obj\Debug\15.Arrow.csprojResolveAssemblyReference.cache

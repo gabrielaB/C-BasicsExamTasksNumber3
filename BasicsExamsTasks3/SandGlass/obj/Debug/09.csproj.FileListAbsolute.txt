@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\bin\Debug\09.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\obj\Debug\09.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\obj\Debug\09.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\bin\Debug\09.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\bin\Debug\09.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\09\obj\Debug\09.csprojResolveAssemblyReference.cache

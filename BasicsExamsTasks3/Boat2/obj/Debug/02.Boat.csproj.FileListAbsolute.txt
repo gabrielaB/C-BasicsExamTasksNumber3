@@ -1,0 +1,12 @@
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\Solution1\ConsoleApplication2\obj\Debug\02.Boat.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\A\Documents\Visual Studio 2015\Projects\BasicsExamsTasks3\ConsoleApplication2\obj\Debug\02.Boat.csprojResolveAssemblyReference.cache

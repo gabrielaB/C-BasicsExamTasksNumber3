@@ -1,0 +1,5 @@
+c:\users\a\documents\visual studio 2015\Projects\Solution1\07\bin\Debug\07.exe.config
+c:\users\a\documents\visual studio 2015\Projects\Solution1\07\obj\Debug\07.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\07\obj\Debug\07.pdb
+c:\users\a\documents\visual studio 2015\Projects\Solution1\07\bin\Debug\07.exe
+c:\users\a\documents\visual studio 2015\Projects\Solution1\07\bin\Debug\07.pdb
